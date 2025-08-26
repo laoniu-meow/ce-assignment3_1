@@ -46,3 +46,9 @@ Before pushing code, test locally:
 
 ![Alt text](/public/image1.png)
 ![Alt text](/public/image2.png)
+
+- ❌ Scan Failed
+![Alt text](/public/image3.png)
+
+- ✅ My Repo no image file, so tells Trivy to scan files
+![Alt text](/public/)
