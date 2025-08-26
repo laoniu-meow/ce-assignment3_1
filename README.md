@@ -44,4 +44,5 @@ Before pushing code, test locally:
 
 ## Screenshots
 
-![Alt text](/public/image.png)
+![Alt text](/public/image1.png)
+![Alt text](/public/image2.png)
