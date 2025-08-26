@@ -43,3 +43,5 @@ Before pushing code, test locally:
 ### Step 7: Commit and push the code
 
 ## Screenshots
+
+![Alt text](/public/image.png)
